@@ -1,6 +1,6 @@
 WEBOPL License
-Web Operated Page Legacy
 
+Web Operated Page Legacy
 Copyright (c) 2023 Lychèli Team 
 
 Permission is not granted, thus free of charge, to any person obtaining a copy
