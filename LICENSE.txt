@@ -1,4 +1,4 @@
-WebOPL License
+WEBOPL License
 Web Operated Page Legacy
 
 Copyright (c) 2023 Lychèli Team 
